@@ -4,9 +4,9 @@ Apache NiFi,Adotar,Ferramentas,VERDADEIRO,<p>Projeto de software da Apache Softw
 Docker,Experimentar,Ferramentas,VERDADEIRO,<p>Conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.</p>
 Datadog,Avaliar,Ferramentas,VERDADEIRO,
 Elastic Cloud,Avaliar,Ferramentas,VERDADEIRO,
-GIT,Adotar,Ferramentas,TRUE,<p>GIT - Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</p>
+GIT,Adotar,Ferramentas,TRUE,<p>Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</p>
 Hangfire,Adotar,Ferramentas,FALSO,<p>Biblioteca para gerenciamento de jobs que são executados em segundo plano, de forma recorrente ou não. Ele é simples de usar, open source (código-fonte no Github) e funciona para qualquer tipo de aplicação .</p>
-Mongo,Experimentar,Ferramentas,VERDADEIRO,<p>software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
+Mongo,Experimentar,Ferramentas,VERDADEIRO,<p>Software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
 Oracle,Adotar,Ferramentas,FALSE,
 RabbitMQ,Adotar,Ferramentas,VERDADEIRO,
 Resharper,Adotar,Ferramentas,TRUE,
