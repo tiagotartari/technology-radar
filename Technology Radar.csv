@@ -1,17 +1,20 @@
 name,ring,quadrant,isNew,description
-Google Analytics,Adotar,Ferramentas,VERDADEIRO,<p>Serviço gratuito e é oferecido pela Google no qual, ao ativar-se o serviço por intermédio de uma conta do Google, e ao cadastrar-se um site recebe-se um código para ser inserido na página cadastrada e, a cada exibição, estatísticas de visitação são enviadas ao sistema e apresentadas ao dono do site.</p>
-Apache NiFi,Adotar,Ferramentas,VERDADEIRO,<p>Projeto de software da Apache Software Foundation projetado para automatizar o fluxo de dados entre sistemas de software.</p>
-Docker,Experimentar,Ferramentas,VERDADEIRO,<p>Conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.</p>
-Datadog,Avaliar,Ferramentas,VERDADEIRO,
-Elastic Cloud,Avaliar,Ferramentas,VERDADEIRO,
+Google Analytics,Adotar,Ferramentas,TRUE,<p>Serviço gratuito e é oferecido pela Google no qual, ao ativar-se o serviço por intermédio de uma conta do Google, e ao cadastrar-se um site recebe-se um código para ser inserido na página cadastrada e, a cada exibição, estatísticas de visitação são enviadas ao sistema e apresentadas ao dono do site.</p>
+Apache NiFi,Adotar,Ferramentas,TRUE,<p>Projeto de software da Apache Software Foundation projetado para automatizar o fluxo de dados entre sistemas de software.</p>
+Docker,Experimentar,Ferramentas,TRUE,<p>Conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.</p>
+Datadog,Avaliar,Ferramentas,TRUE,
+Elastic Cloud,Avaliar,Ferramentas,TRUE,
 GIT,Adotar,Ferramentas,TRUE,<p>Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</p>
 Hangfire,Adotar,Ferramentas,FALSO,<p>Biblioteca para gerenciamento de jobs que são executados em segundo plano, de forma recorrente ou não. Ele é simples de usar, open source (código-fonte no Github) e funciona para qualquer tipo de aplicação .</p>
-Mongo,Experimentar,Ferramentas,VERDADEIRO,<p>Software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
-Oracle,Adotar,Ferramentas,FALSE,
-RabbitMQ,Adotar,Ferramentas,VERDADEIRO,
-Resharper,Adotar,Ferramentas,TRUE,
+Mongo,Experimentar,Ferramentas,TRUE,<p>Software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
+Oracle,Evitar,Ferramentas,FALSE,
+Microsoft SQL Server,Adotar,Ferramentas,FALSE,
+RabbitMQ,Adotar,Ferramentas,TRUE,
+Azure Service Bus,Avaliar,Ferramentas,TRUE,
+Apache Kafka,Avaliar,Ferramentas,TRUE,
+Resharper,Avaliar,Ferramentas,TRUE,
 Visual Studio 2019+,Adotar,Ferramentas,FALSE,
-Visual Studio Code,Adotar,Ferramentas,FALSE,
+VSCode,Adotar,Ferramentas,FALSE,
 ASP .NET Core,Adotar,Linguagens & Frameworks,FALSE,
 AutoMapper,Adotar,Linguagens & Frameworks,TRUE,
 C#,Adotar,Linguagens & Frameworks,TRUE,
@@ -57,23 +60,18 @@ Xamarim,Avaliar,Linguagens & Frameworks,TRUE,
 Identity Server,Avaliar,Plataformas,TRUE,
 TOTVS Fluig,Avaliar,Plataformas,TRUE,
 PostgreSQL,Evitar,Ferramentas,FALSO,
-ASP 3,Evitar,Linguagens & Frameworks,FALSO,
+ASP Classico,Evitar,Linguagens & Frameworks,FALSO,
 Java,Evitar,Linguagens & Frameworks,VERDADEIRO,
 PHP,Evitar,Linguagens & Frameworks,FALSO,
 PL/SQL,Evitar,Linguagens & Frameworks,FALSO,
-VB 6,Evitar,Linguagens & Frameworks,FALSO,
-Web Services com SOAP,Evitar,Linguagens & Frameworks,VERDADEIRO,
-.Net Full Framework,Evitar,Plataformas,FALSO,
-Elasticsearch,Experimentar,Ferramentas,VERDADEIRO,
-Entity Framework Core,Experimentar,Ferramentas,VERDADEIRO,
+Visual Basic 6,Evitar,Linguagens & Frameworks,FALSO,
+.Net Full Framework 4.8-,Evitar,Plataformas,FALSO,
+Entity Framework Core,Adotar,Ferramentas,VERDADEIRO,
 Jenkins,Experimentar,Ferramentas,VERDADEIRO,
 Mongo,Experimentar,Ferramentas,VERDADEIRO,
-RavenDB,Experimentar,Ferramentas,VERDADEIRO,
 Redis,Experimentar,Ferramentas,VERDADEIRO,
-VAGRANT,Experimentar,Ferramentas,VERDADEIRO,
 WinAutomation,Experimentar,Ferramentas,VERDADEIRO,
 JQuery,Evitar,Linguagens & Frameworks,FALSO,
 Restsharp,Experimentar,Linguagens & Frameworks,VERDADEIRO,
-KISS Principle,Experimentar,Técnica,VERDADEIRO,
 NoSQL,Experimentar,Técnica,VERDADEIRO,
 OKR,Experimentar,Técnica,VERDADEIRO,
