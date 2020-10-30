@@ -6,7 +6,7 @@ Datadog,Avaliar,Ferramentas,TRUE,
 Elastic Cloud,Avaliar,Ferramentas,TRUE,
 GIT,Adotar,Ferramentas,TRUE,<p>Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</p>
 Hangfire,Adotar,Ferramentas,FALSO,<p>Biblioteca para gerenciamento de jobs que são executados em segundo plano, de forma recorrente ou não. Ele é simples de usar, open source (código-fonte no Github) e funciona para qualquer tipo de aplicação .</p>
-Mongo,Experimentar,Ferramentas,TRUE,<p>Software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
+MongoDb,Experimentar,Ferramentas,TRUE,<p>Software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
 Oracle,Evitar,Ferramentas,FALSE,
 Microsoft SQL Server,Adotar,Ferramentas,FALSE,
 RabbitMQ,Adotar,Ferramentas,TRUE,
@@ -68,7 +68,6 @@ Visual Basic 6,Evitar,Linguagens & Frameworks,FALSO,
 .Net Full Framework 4.8-,Evitar,Plataformas,FALSO,
 Entity Framework Core,Adotar,Ferramentas,VERDADEIRO,
 Jenkins,Experimentar,Ferramentas,VERDADEIRO,
-Mongo,Experimentar,Ferramentas,VERDADEIRO,
 Redis,Experimentar,Ferramentas,VERDADEIRO,
 WinAutomation,Experimentar,Ferramentas,VERDADEIRO,
 JQuery,Evitar,Linguagens & Frameworks,FALSO,
